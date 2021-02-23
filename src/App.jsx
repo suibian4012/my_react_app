@@ -6,6 +6,7 @@ export default class App extends PureComponent {
   }
 
 
+  //创建test分支
   // PureComponent内部实现了shouldComponentUpdate,对state和props进行浅比较
   // shouldComponentUpdate和PureComponent同时存在时，只生效shouldComponentUpdate
 
